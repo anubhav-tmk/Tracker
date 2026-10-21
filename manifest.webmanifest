@@ -1,0 +1,13 @@
+{
+  "name": "Tracker",
+  "short_name": "Tracker",
+  "description": "Private tracker for tasks, deadlines, daily habits and dates.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
